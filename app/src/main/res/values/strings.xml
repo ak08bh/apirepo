@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="description">Description</string>
+    <string name="food">Delicious Food</string>
+    <string name="delivery">Deliver to: Indore,Madhya Pradesh...</string>
+    <string name="give">Give Away</string>
+    <string name="home">Home Delivery</string>
+    <string name="coffee">Hot Coffee</string>
+    <string name="name">Name</string>
+    <string name="order">Order</string>
+    <string name="rs">Rs 15.0</string>
+    <string name="near">Near Me</string>
+
+
+
+
+
+
+</resources>
